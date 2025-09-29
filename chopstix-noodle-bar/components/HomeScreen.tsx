@@ -52,7 +52,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ onNavigate }) => {
 
       {/* Promo Section */}
       <div className="bg-red-800 text-white p-6 my-8 mx-4 rounded-lg shadow-xl text-center">
-        <img src="https://drive.google.com/uc?export=view&id=15qfqz9QmkalRbHFAUFsGuP3D-tHNriyJ" alt="Chopstix Logo" className="mx-auto mb-4 w-48"/>
+        <img src="../chopstix-noodle-bar/components/icons/chopstix_logo_01.png" alt="Chopstix Logo" className="mx-auto mb-4 w-48"/>
         <p className="text-2xl font-bold tracking-wider">01256 477770 / 0777 1681688</p>
         <div className="bg-yellow-400 text-black text-sm font-semibold p-2 rounded-md my-4 max-w-sm mx-auto">
             4 QUEENS PARADE, NEW STREET, BASINGSTOKE RG21 7DA
@@ -68,7 +68,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({ onNavigate }) => {
       <div className="bg-red-800 text-white p-6 text-center">
         <h2 className="text-2xl font-bold mb-4">ALLERGY ADVICE</h2>
         <p className="max-w-2xl mx-auto mb-4 text-sm">
-            Most of our dishes contain garlic, soya, gluten, cooking wine, sesame oil if you have any allergies to these products, please inform us before ordering.
+            Most of our dishes contain garlic, soya, gluten, cooking wine, sesame oil if you have any allergies to these products, please inform us before before ordering.
         </p>
         <p className="max-w-2xl mx-auto mb-6 text-sm">
             Please press the button below to find out allergy alerts of each of our dishes!! If you have further enquiries, please talk to a member of our staff. Your health is our paramount importance

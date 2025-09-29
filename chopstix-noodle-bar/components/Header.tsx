@@ -35,7 +35,7 @@ const Header: React.FC<HeaderProps> = ({ onMenuClick, onNavigate, isLoggedIn, se
           </div>
           
           <div onClick={() => onNavigate('home')} className="cursor-pointer absolute left-1/2 -translate-x-1/2">
-             <img src="https://drive.google.com/uc?export=view&id=15qfqz9QmkalRbHFAUFsGuP3D-tHNriyJ" alt="Chopstix Logo" className="h-10 object-contain"/>
+             <img src="../chopstix-noodle-bar/components/icons/chopstix_logo_01.png" alt="Chopstix Logo" className="h-10 object-contain"/>
           </div>
 
           <div className="flex items-center space-x-4">

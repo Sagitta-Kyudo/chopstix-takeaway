@@ -31,7 +31,7 @@ const SignUpScreen: React.FC<SignUpScreenProps> = ({ onSignUpSuccess, onBackToLo
     <div className="container mx-auto px-4 py-8 md:py-16">
       <div className="max-w-md w-full mx-auto bg-white rounded-lg shadow-md p-8">
         <div className="text-center mb-8">
-            <img src="https://drive.google.com/uc?export=view&id=15qfqz9QmkalRbHFAUFsGuP3D-tHNriyJ" alt="Chopstix Logo" className="mx-auto h-16 mb-4"/>
+            <img src="../chopstix-noodle-bar/components/icons/chopstix_logo_01.png" alt="Chopstix Logo" className="mx-auto h-16 mb-4"/>
             <h2 className="text-3xl font-bold text-gray-900">Create your account</h2>
         </div>
         
